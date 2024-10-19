@@ -107,10 +107,6 @@ To use this project, you need to set up Firebase:
   - **Home Screen** → **Flashcard Details** (Edit Flashcard)
   - **Home Screen** → **Profile** (View profile, sign out, or delete account)
 
-## Screenshots
-
-*Add screenshots here showing different parts of the app.*
-
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit a pull request.
